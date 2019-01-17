@@ -1,0 +1,149 @@
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-16-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add patients method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement created to get id
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:in add purchasedetails method
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection statement created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement object created
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:execute update called
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:generated id is:1
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:statement closed
+2019-01-17-main-INFO -com.cg.map.dao.MapDAOImpl:connection closed
